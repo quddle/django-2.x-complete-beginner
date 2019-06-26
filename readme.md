@@ -40,11 +40,11 @@ In this course you will learn all these fantastic features discussed above. The 
 
 The course is designed to introduce concepts gradually with quizzes at the end of each chapter to test your knowledge of Django. The course consist of **2 projects** -
 
-1. **Complete Blog Application**
+    1. **Complete Blog Application**
 
 Using our knowledge we will setup a complete blog application along with user authentication, blog posts, detail views, comments, etc. This project is designed to reinforce all the basic concepts of Django.
 
-2. **Quora Clone**
+    2. **Quora Clone**
 
 At the end of the course you will be making a fully featured 'Quora' Clone along with custom user authentication, this project will involve all the fundamentals of Django and will also introduce many more advanced concepts.
 

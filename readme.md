@@ -50,6 +50,15 @@ At the end of the course you will be making a fully featured 'Quora' Clone along
 
 And finally, you will be packaging the Django project for deployment on Heroku and going live!!!
 
+## Who this course is for ?
+
+    - Anyone who wants to create highly scalable and secure web applications.
+    - Anyone who wants to improve their understanding of Django.
+    - Anyone who want to learn back-end development using Django.
+    - Anyone who wants to learn rapid web development.
+    - Beginners in web development.
+    - Entrepreneurs who want to launch start-ups and create online businesses.
+
 ## Author
 
 - Anil Kulkarni

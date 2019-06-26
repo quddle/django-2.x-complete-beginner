@@ -32,7 +32,7 @@
 
 ## Description
 
-This course is a complete and practical course which will provide you with sound understanding of **Django Framework**. Django is one of the most popular framework for web development. It provides **solid stability, security & performance** right out of the box and is being used in production by big enterprises such as **Instagram, Pinterest, Disqus, etc**.
+This course is a complete and practical course which will provide you with sound understanding of **Django Framework**. Django is one of the most popular framework for web development. It provides **solid stability, security & performance** right out of the box and is being used in production by big enterprises such as **Instagram, Pinterest, Disqus, Mozilla, etc**.
 
 Django is a complete framework with easy configuration for your models, templates and views, it also ships with a built-in **user authentication system**. The Django **ORM** provides an easy and robust access mechanism for querying your relational databases such as MySQL, PostgreSQL, Oracle, etc. One of the main features of Django is the built-in **admin dashboard**, it helps save a lot of time for development and easy access to various features.
 

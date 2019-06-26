@@ -1,6 +1,6 @@
 # Django 2.2 | The Complete Beginner's Guide
 
-_Learn all the fundamentals of Django for web development and create a 'Quora' clone which you will deploy to Heroku._
+**Learn all the fundamentals of Django for web development and create a 'Quora' clone which you will deploy to Heroku.**
 
 ![Django Beginner](assets/img/quddle-udemy-banner.png)
 

@@ -1,0 +1,12 @@
+# VS Code
+*.vscode
+.DS_Store
+.vscode
+
+# Folder
+project-quora-html/
+project-bubbles-html/
+
+# Files
+TOC.md
+*.source.md

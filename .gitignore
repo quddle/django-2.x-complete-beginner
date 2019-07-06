@@ -6,7 +6,10 @@
 # Folder
 project-quora-html/
 project-bubbles-html/
+presentations/
+assets/private
 
 # Files
 TOC.md
 *.source.md
+*.key
